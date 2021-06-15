@@ -10263,17 +10263,17 @@ a.resume-link:hover {
     color:#4F4F4F
 }
 
-a.btn.btn-info{
+.linkDownloadCurriculumPDF{
 	background-color: #54B689;
 	border-color: #54B689;
 	width: 100%;
 }
 
-a.btn.btn-info:hover{
+.linkDownloadCurriculumPDF:hover{
 	opacity: 0.7;
 }
 
-button#btnDownloadCurriculumPDF {
+.btnDownloadCurriculumPDF {
 	
     color: white;
     height: auto !important;
