@@ -10262,3 +10262,25 @@ a.resume-link:hover {
 .education-section a{
     color:#4F4F4F
 }
+
+a.btn.btn-info{
+	background-color: #54B689;
+	border-color: #54B689;
+	width: 100%;
+}
+
+a.btn.btn-info:hover{
+	opacity: 0.7;
+}
+
+button#btnDownloadCurriculumPDF {
+	
+    color: white;
+    height: auto !important;
+    padding: 0 !important;
+	font-weight: normal;
+}
+
+svg.svg-inline--fa.fa-download.fa-w-16 {
+    margin-right: 7px;
+}
